@@ -1,6 +1,3 @@
 Ulrich
-<<<<<<< HEAD
-Gibrel
-=======
 Prof
->>>>>>> b089b6e (prof)
+
