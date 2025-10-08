@@ -1,11 +1,6 @@
 Ulrich
-<<<<<<< HEAD
 Prof
 Therese
-=======
-
-Prof
-
 mamadou
->>>>>>> cf10b2a (bonjour)
+
 
